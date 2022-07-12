@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,221 +29,258 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:1" ;
-    skos:prefLabel "Anenii Noi"@eng-Latn .
+    skos:prefLabel "Anenii Noi"@eng-Latn ;
+    wdata:q7200235 "MD001" .
 
 <urn:mdciii:1603:16:498:1:10>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:10" ;
-    skos:prefLabel "Chisinau"@eng-Latn .
+    skos:prefLabel "Chisinau"@eng-Latn ;
+    wdata:q7200235 "MD010" .
 
 <urn:mdciii:1603:16:498:1:11>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:11" ;
-    skos:prefLabel "Cimislia"@eng-Latn .
+    skos:prefLabel "Cimislia"@eng-Latn ;
+    wdata:q7200235 "MD011" .
 
 <urn:mdciii:1603:16:498:1:12>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:12" ;
-    skos:prefLabel "Criuleni"@eng-Latn .
+    skos:prefLabel "Criuleni"@eng-Latn ;
+    wdata:q7200235 "MD012" .
 
 <urn:mdciii:1603:16:498:1:13>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:13" ;
-    skos:prefLabel "Donduseni"@eng-Latn .
+    skos:prefLabel "Donduseni"@eng-Latn ;
+    wdata:q7200235 "MD013" .
 
 <urn:mdciii:1603:16:498:1:14>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:14" ;
-    skos:prefLabel "Drochia"@eng-Latn .
+    skos:prefLabel "Drochia"@eng-Latn ;
+    wdata:q7200235 "MD014" .
 
 <urn:mdciii:1603:16:498:1:15>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:15" ;
-    skos:prefLabel "Dubasari"@eng-Latn .
+    skos:prefLabel "Dubasari"@eng-Latn ;
+    wdata:q7200235 "MD015" .
 
 <urn:mdciii:1603:16:498:1:16>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:16" ;
-    skos:prefLabel "Edinet"@eng-Latn .
+    skos:prefLabel "Edinet"@eng-Latn ;
+    wdata:q7200235 "MD016" .
 
 <urn:mdciii:1603:16:498:1:17>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:17" ;
-    skos:prefLabel "Falesti"@eng-Latn .
+    skos:prefLabel "Falesti"@eng-Latn ;
+    wdata:q7200235 "MD017" .
 
 <urn:mdciii:1603:16:498:1:18>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:18" ;
-    skos:prefLabel "Floresti"@eng-Latn .
+    skos:prefLabel "Floresti"@eng-Latn ;
+    wdata:q7200235 "MD018" .
 
 <urn:mdciii:1603:16:498:1:19>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:19" ;
-    skos:prefLabel "Glodeni"@eng-Latn .
+    skos:prefLabel "Glodeni"@eng-Latn ;
+    wdata:q7200235 "MD019" .
 
 <urn:mdciii:1603:16:498:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:2" ;
-    skos:prefLabel "Balti"@eng-Latn .
+    skos:prefLabel "Balti"@eng-Latn ;
+    wdata:q7200235 "MD002" .
 
 <urn:mdciii:1603:16:498:1:20>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:20" ;
-    skos:prefLabel "HDncesti"@eng-Latn .
+    skos:prefLabel "HDncesti"@eng-Latn ;
+    wdata:q7200235 "MD020" .
 
 <urn:mdciii:1603:16:498:1:21>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:21" ;
-    skos:prefLabel "Ialoveni"@eng-Latn .
+    skos:prefLabel "Ialoveni"@eng-Latn ;
+    wdata:q7200235 "MD021" .
 
 <urn:mdciii:1603:16:498:1:22>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:22" ;
-    skos:prefLabel "Leova"@eng-Latn .
+    skos:prefLabel "Leova"@eng-Latn ;
+    wdata:q7200235 "MD022" .
 
 <urn:mdciii:1603:16:498:1:23>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:23" ;
-    skos:prefLabel "Nisporeni"@eng-Latn .
+    skos:prefLabel "Nisporeni"@eng-Latn ;
+    wdata:q7200235 "MD023" .
 
 <urn:mdciii:1603:16:498:1:24>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:24" ;
-    skos:prefLabel "Ocnita"@eng-Latn .
+    skos:prefLabel "Ocnita"@eng-Latn ;
+    wdata:q7200235 "MD024" .
 
 <urn:mdciii:1603:16:498:1:25>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:25" ;
-    skos:prefLabel "Orhei"@eng-Latn .
+    skos:prefLabel "Orhei"@eng-Latn ;
+    wdata:q7200235 "MD025" .
 
 <urn:mdciii:1603:16:498:1:26>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:26" ;
-    skos:prefLabel "Rezina"@eng-Latn .
+    skos:prefLabel "Rezina"@eng-Latn ;
+    wdata:q7200235 "MD026" .
 
 <urn:mdciii:1603:16:498:1:27>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:27" ;
-    skos:prefLabel "RDscani"@eng-Latn .
+    skos:prefLabel "RDscani"@eng-Latn ;
+    wdata:q7200235 "MD027" .
 
 <urn:mdciii:1603:16:498:1:28>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:28" ;
-    skos:prefLabel "SDngerei"@eng-Latn .
+    skos:prefLabel "SDngerei"@eng-Latn ;
+    wdata:q7200235 "MD028" .
 
 <urn:mdciii:1603:16:498:1:29>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:29" ;
-    skos:prefLabel "Soldanesti"@eng-Latn .
+    skos:prefLabel "Soldanesti"@eng-Latn ;
+    wdata:q7200235 "MD029" .
 
 <urn:mdciii:1603:16:498:1:3>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:3" ;
-    skos:prefLabel "Basarabeasca"@eng-Latn .
+    skos:prefLabel "Basarabeasca"@eng-Latn ;
+    wdata:q7200235 "MD003" .
 
 <urn:mdciii:1603:16:498:1:30>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:30" ;
-    skos:prefLabel "Soroca"@eng-Latn .
+    skos:prefLabel "Soroca"@eng-Latn ;
+    wdata:q7200235 "MD030" .
 
 <urn:mdciii:1603:16:498:1:31>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:31" ;
-    skos:prefLabel "Stefan Voda"@eng-Latn .
+    skos:prefLabel "Stefan Voda"@eng-Latn ;
+    wdata:q7200235 "MD031" .
 
 <urn:mdciii:1603:16:498:1:32>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:32" ;
-    skos:prefLabel "Straseni"@eng-Latn .
+    skos:prefLabel "Straseni"@eng-Latn ;
+    wdata:q7200235 "MD032" .
 
 <urn:mdciii:1603:16:498:1:33>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:33" ;
-    skos:prefLabel "Taraclia"@eng-Latn .
+    skos:prefLabel "Taraclia"@eng-Latn ;
+    wdata:q7200235 "MD033" .
 
 <urn:mdciii:1603:16:498:1:34>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:34" ;
-    skos:prefLabel "Telenesti"@eng-Latn .
+    skos:prefLabel "Telenesti"@eng-Latn ;
+    wdata:q7200235 "MD034" .
 
 <urn:mdciii:1603:16:498:1:35>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:35" ;
-    skos:prefLabel "Transnistria"@eng-Latn .
+    skos:prefLabel "Transnistria"@eng-Latn ;
+    wdata:q7200235 "MD035" .
 
 <urn:mdciii:1603:16:498:1:36>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:36" ;
-    skos:prefLabel "Ungheni"@eng-Latn .
+    skos:prefLabel "Ungheni"@eng-Latn ;
+    wdata:q7200235 "MD036" .
 
 <urn:mdciii:1603:16:498:1:37>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:37" ;
-    skos:prefLabel "Unitate Teritoriala Autonoma Gagauzia"@eng-Latn .
+    skos:prefLabel "Unitate Teritoriala Autonoma Gagauzia"@eng-Latn ;
+    wdata:q7200235 "MD037" .
 
 <urn:mdciii:1603:16:498:1:4>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:4" ;
-    skos:prefLabel "Bender"@eng-Latn .
+    skos:prefLabel "Bender"@eng-Latn ;
+    wdata:q7200235 "MD004" .
 
 <urn:mdciii:1603:16:498:1:5>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:5" ;
-    skos:prefLabel "Briceni"@eng-Latn .
+    skos:prefLabel "Briceni"@eng-Latn ;
+    wdata:q7200235 "MD005" .
 
 <urn:mdciii:1603:16:498:1:6>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:6" ;
-    skos:prefLabel "Cahul"@eng-Latn .
+    skos:prefLabel "Cahul"@eng-Latn ;
+    wdata:q7200235 "MD006" .
 
 <urn:mdciii:1603:16:498:1:7>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:7" ;
-    skos:prefLabel "Calarasi"@eng-Latn .
+    skos:prefLabel "Calarasi"@eng-Latn ;
+    wdata:q7200235 "MD007" .
 
 <urn:mdciii:1603:16:498:1:8>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:8" ;
-    skos:prefLabel "Cantemir"@eng-Latn .
+    skos:prefLabel "Cantemir"@eng-Latn ;
+    wdata:q7200235 "MD008" .
 
 <urn:mdciii:1603:16:498:1:9>
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:498:1:9" ;
-    skos:prefLabel "Causeni"@eng-Latn .
+    skos:prefLabel "Causeni"@eng-Latn ;
+    wdata:q7200235 "MD009" .
 
