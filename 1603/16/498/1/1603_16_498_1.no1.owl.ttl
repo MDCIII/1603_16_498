@@ -201,7 +201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:498:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
-    skos:prefLabel "HDncesti"@eng-Latn ;
+    skos:prefLabel "Hincesti"@eng-Latn ;
     wdata:Q7200235 "MD020" ;
 .
 
@@ -278,7 +278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:498:1:27" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
-    skos:prefLabel "RDscani"@eng-Latn ;
+    skos:prefLabel "Riscani"@eng-Latn ;
     wdata:Q7200235 "MD027" ;
 .
 
@@ -289,7 +289,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:498:1:28" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:498:0> ;
-    skos:prefLabel "SDngerei"@eng-Latn ;
+    skos:prefLabel "Singerei"@eng-Latn ;
     wdata:Q7200235 "MD028" ;
 .
 

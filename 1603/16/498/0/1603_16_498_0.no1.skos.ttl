@@ -13,7 +13,7 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
         owl:Thing ,
         skos:Concept ;
     rdfs:label "1603:16:498:0" ;
-    skos:prefLabel "Moldova"@eng-Latn ;
+    skos:prefLabel "Republic of Moldova (the)"@eng-Latn ;
 .
 
 <urn:mdciii:1603:16()>
